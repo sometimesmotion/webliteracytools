@@ -20,7 +20,7 @@ The tools are broken down into sections- **tutorials**, **references**, **valida
 |Try jQuery (Code School) | [http://try.jquery.com/](http://try.jquery.com/)|Learn the basics of using jQuery and quite a bit about the DOM tree as well|Instruction: video, written Work: exercises|
 |Codecademy |[http://www.codecademy.com](http://www.codecademy.com)|Basics of how web pages are constructed|Instruction: Written w/ simple tasks Work: exercises & projects|
 |Dash (General Assembly)|[https://dash.generalassemb.ly](https://dash.generalassemb.ly)|HTML, CSS & JS basics|Instruction: Written w/ simple tasks Work: projects|
-|Code Combat|[http://codecombat.com/](http://codecombat.com/)|Learn Python, JavaScript and more in a game!|Instruction: game, quest-based Work: it's a game!|
+|Code Combat|[http://codecombat.com/](http://codecombat.com/)[https://github.com/codecombat/codecombat](https://github.com/codecombat/codecombat)|Learn Python, JavaScript and more in a game!|Instruction: game, quest-based Work: it's a game!|
 |Grok Learning|[https://groklearning.com/csedweek/](https://groklearning.com/csedweek/)|Python introductions|Instruction: written w/ simple tasks Work: projects|
 |Coursera|[https://www.coursera.org/courses?categories=cs-programming](https://www.coursera.org/courses?categories=cs-programming)|Learn a variety of languages- synchronous and learn at your own pace options|Instruction: varied, video and project-based Work: varied, project-based|
 |Khan Academy|https://www.khanacademy.org/computing/cs |Uses JavaScript to teach fundamentals of programming- not specific to web development|Instruction: Video Work: exercises|
