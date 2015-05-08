@@ -26,6 +26,7 @@ The tools are broken down into sections- **tutorials**, **references**, **valida
 |Khan Academy|https://www.khanacademy.org/computing/cs |Uses JavaScript to teach fundamentals of programming- not specific to web development|Instruction: Video Work: exercises|
 |Mozilla Developer|[https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/) |References, tutorials and tools to learn HTML, CSS, JS and more|Written references and tutorials with suggested exercises|
 |MS Virtual Academy|[http://www.microsoftvirtualacademy.com/?cmpid=W_MSS_MKTG_MVA_FY14_MVA] (http://www.microsoftvirtualacademy.com/?cmpid=W_MSS_MKTG_MVA_FY14_MVA)|Tutorials on a wide variety of CS topics|Instruction: videos (lengthy) Work: quizzes to assess comprehension|
+|Teaching Privacy|[http://teachingprivacy.icsi.berkeley.edu/youre-leaving-footprints/](http://teachingprivacy.icsi.berkeley.edu/youre-leaving-footprints/)|Privacy & Surveillance topics|Instruction: primarily text w/ links to external videos, sites and games Work: informational only|
 
 ### References
 
